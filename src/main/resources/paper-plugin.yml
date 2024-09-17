@@ -1,0 +1,7 @@
+name: IDWant
+version: '1.0.2'
+main: lol.nightshade.idwant.IDWant
+api-version: '1.17'
+load: STARTUP
+authors: [ therealserver ]
+description: Toggle vanilla recipes.
